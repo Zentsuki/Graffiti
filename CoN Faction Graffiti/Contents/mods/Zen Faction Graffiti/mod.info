@@ -1,0 +1,6 @@
+name=Zen Faction Graffiti
+poster=poster.png
+id=zen_faction_graffiti
+description=Zentsukis Faction Graffiti
+pack=zen_faction_graffiti
+tiledef=zen_faction_graffiti_def 8737
